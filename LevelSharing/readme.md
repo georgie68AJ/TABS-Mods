@@ -6,6 +6,9 @@ This is a mod for level sharing I made, it allows you to create and publish and 
 * Go to the TotallyAccurateBattleSimulator_Data folder within that one
 * Go to Managed
 * Replace the original games Assembly-CSharp.dll with the modded one you just downloaded (consider renaming the original to quickly change between modded and original by renaming the files.
+
+### Other mods
+There is also other available mods, and also a better explanation of the installation and a video, all available on this google drive: https://drive.google.com/open?id=191mJkD6UQi5NS6jiCURXZrmb4i3HTN7s
 ### Usage
 To start, follow the installation instructions, after you are done, start the game, go to Sandbox, choose a level (any level) and the UI for Level Sharing should show up. Toggle the entire overlay using the Slash (/) button on your keyboard, or minimize and maximize the UI by pressing the "Level Sharing" Button in the top left
 
